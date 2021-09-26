@@ -16,3 +16,9 @@ web-developer
 Разрешается использовать любые JavaScript библиотеки и фреймворки
 Предоставить работающее расширение в формате zip, вместе с исходным кодом
 Вопросы по заданию разрешаются
+
+# Setup
+
+### $ npm install
+### $ npm run build
+### dist folder - to download google extension
